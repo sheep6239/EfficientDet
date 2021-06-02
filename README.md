@@ -1,2 +1,2 @@
 # EifficientDet
-Study EifficientNet
+Study EifficientDet
