@@ -1,2 +1,2 @@
-# EifficientNet
+# EifficientDet
 Study EifficientNet
